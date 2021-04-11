@@ -1,4 +1,4 @@
 # Miciomacio attacca
 
-- Miciomacio vince
-- Miciomacio perde miseramente
+- Miciomacio [vince](vittoria.html)
+- Miciomacio [perde miseramente](perdita.html)
